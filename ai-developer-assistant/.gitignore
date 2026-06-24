@@ -31,7 +31,6 @@ dist/
 # Python Testing
 .pytest_cache/
 .coverage
-htmlcov/
 
 # Jupyter Notebooks
 .ipynb_checkpoints/

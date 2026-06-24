@@ -1,6 +1,5 @@
 from datetime import datetime
 
-
 def calculator(a: float, b: float, operation: str):
 
     if operation == "+":

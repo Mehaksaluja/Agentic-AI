@@ -5,7 +5,6 @@ from groq import Groq
 from dotenv import load_dotenv
 
 from tools import calculator, get_time
-
 load_dotenv()
 
 client = Groq(
