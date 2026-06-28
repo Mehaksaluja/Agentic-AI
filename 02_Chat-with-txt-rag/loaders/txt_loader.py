@@ -1,10 +1,8 @@
 from pathlib import Path
-
 from models.document import Document
 
 
 class TextLoader:
-
     def __init__(self, file_path: str):
         self.file_path = Path(file_path)
 
