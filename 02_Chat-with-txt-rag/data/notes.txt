@@ -1,0 +1,15 @@
+Python is a high-level programming language.
+
+Python supports Object-Oriented Programming.
+
+Python is widely used for AI, Machine Learning and Data Science.
+
+Lists in Python are mutable.
+
+Tuples are immutable.
+
+Dictionaries store key-value pairs.
+
+Functions are reusable blocks of code.
+
+Classes are blueprints for creating objects.
