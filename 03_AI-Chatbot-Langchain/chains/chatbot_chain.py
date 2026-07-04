@@ -1,3 +1,4 @@
+# Just a simple chain that takes a prompt, a model, and a parser and returns a response
 from prompts.chatbot_prompt import (
     ChatbotPrompt
 )
